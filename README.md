@@ -1,4 +1,4 @@
-# PHP Swoole Chat room practice
+# PHP Swoole chat room practice
 
 ## 安裝 Swoole
 * 參照Swoole官網: <https://wiki.swoole.com/wiki/page/6.html>
